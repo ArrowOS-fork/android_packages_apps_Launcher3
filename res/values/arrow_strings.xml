@@ -140,4 +140,8 @@
     <string name="pref_themed_icons_title">Themed icons</string>
     <string name="pref_themed_icons_summary">Follow themed icons used on home screen</string>
 
+    <!-- Taskbar -->
+    <string name="pref_allow_phone_taskbar">Use taskbar</string>
+    <string name="pref_allow_phone_taskbar_desc">For opening and switching apps anywhere</string>
+
 </resources>
